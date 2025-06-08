@@ -2,6 +2,8 @@
 
 🎓 Tenho 15 anos e sou apaixonado por tecnologia. Estudo programação há mais de 5 anos e busco constantemente aprender e aplicar novos conhecimentos no mundo da tecnologia e inteligência artificial.
 
+🌐 **Portfólio online:** [https://portifolio-uz0p.onrender.com](https://portifolio-uz0p.onrender.com)
+
 ---
 
 ## 🛠️ Tecnologias que domino
@@ -11,7 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
@@ -19,7 +20,7 @@
 
 ---
 
-## 📘 Atualmente estudando:
+## 📘 Atualmente estudando
 
 - 🤖 **Machine Learning**  
 - 🧠 **Redes Neurais**  
@@ -28,7 +29,7 @@
 
 ---
 
-## 📫 Entre em contato:
+## 📫 Entre em contato
 
 - Email: **vitorvzp722@gmail.com**
 
@@ -42,13 +43,20 @@ Meu objetivo é me tornar um especialista em **inteligência artificial** e **ci
 
 ## 📂 Repositórios em destaque
 
-Em breve estarei publicando mais projetos em:
+📌 Em breve estarei publicando mais projetos em:
 
-- Python com IA e automações
-- Aplicações web com banco de dados
-- Estudos práticos com redes neurais
+- Python com IA e automações  
+- Aplicações web com banco de dados  
+- Estudos práticos com redes neurais  
 
-Fique à vontade para acompanhar meu progresso e contribuir! 😄
+---
+
+## ⭐ Repositórios favoritos
+
+- [**IA-Chatbot-App**](https://github.com/Vitorvzp/IA-Chatbot-App) – Chatbot com integração inteligente e uso de APIs modernas.
+- [**Flask-Pix-Checkout**](https://github.com/Vitorvzp/Flask-Pix-Checkout) – Sistema de checkout com Flask e integração com PIX.
+- [**NeuralNet-Test**](https://github.com/Vitorvzp/NeuralNet-Test) – Experimentos com redes neurais simples.
+- [**Cardapio-Escolar**](https://github.com/Vitorvzp/Cardapio-Escolar) – Sistema de pedidos para feira escolar com integração ao WhatsApp.
 
 ---
 
