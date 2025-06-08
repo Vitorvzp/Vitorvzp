@@ -53,10 +53,10 @@ Meu objetivo é me tornar um especialista em **inteligência artificial** e **ci
 
 ## ⭐ Repositórios favoritos
 
-- [**IA-Chatbot-App**](https://github.com/Vitorvzp/IA-Chatbot-App) – Chatbot com integração inteligente e uso de APIs modernas.
-- [**Flask-Pix-Checkout**](https://github.com/Vitorvzp/Flask-Pix-Checkout) – Sistema de checkout com Flask e integração com PIX.
-- [**NeuralNet-Test**](https://github.com/Vitorvzp/NeuralNet-Test) – Experimentos com redes neurais simples.
-- [**Cardapio-Escolar**](https://github.com/Vitorvzp/Cardapio-Escolar) – Sistema de pedidos para feira escolar com integração ao WhatsApp.
+- [**IA-Chatbot-App**](https://github.com/Vitorvzp/IA-Chatbot-App) – 
+- [**Flask-Pix-Checkout**](https://github.com/Vitorvzp/Flask-Pix-Checkout) – 
+- [**NeuralNet-Test**](https://github.com/Vitorvzp/NeuralNet-Test) – 
+- [**Cardapio-Escolar**](https://github.com/Vitorvzp/Cardapio-Escolar) – 
 
 ---
 
