@@ -53,10 +53,10 @@ Meu objetivo é me tornar um especialista em **inteligência artificial** e **ci
 
 ## ⭐ Repositórios favoritos
 
-- [**IA-Chatbot-App**](https://github.com/Vitorvzp/IA-Chatbot-App) – 
-- [**Flask-Pix-Checkout**](https://github.com/Vitorvzp/Flask-Pix-Checkout) – 
-- [**NeuralNet-Test**](https://github.com/Vitorvzp/NeuralNet-Test) – 
-- [**Cardapio-Escolar**](https://github.com/Vitorvzp/Cardapio-Escolar) – 
+- [**Portifólio-ChatBot**](https://github.com/Vitorvzp/DiscordBot) – 
+- [**Discord-Bot-With-AI**](https://github.com/Vitorvzp/DiscordBot) – 
+- [**Database-API**](https://github.com/Vitorvzp/API) – 
+- [**Menu**](https://github.com/Vitorvzp/Gourmet) – 
 
 ---
 
