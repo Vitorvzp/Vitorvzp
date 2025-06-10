@@ -47,16 +47,16 @@ Meu objetivo é me tornar um especialista em **inteligência artificial** e **ci
 
 - Python com IA e automações  
 - Aplicações web com banco de dados  
-- Estudos práticos com redes neurais  
+- Estudos práticos com IA's 
 
 ---
 
 ## ⭐ Repositórios favoritos
 
-- [**Portifólio-ChatBot**](https://github.com/Vitorvzp/DiscordBot) – 
-- [**Discord-Bot-With-AI**](https://github.com/Vitorvzp/DiscordBot) – 
-- [**Database-API**](https://github.com/Vitorvzp/API) – 
-- [**Menu**](https://github.com/Vitorvzp/Gourmet) – 
+- [**Portifólio-ChatBot**](https://github.com/Vitorvzp/Port-folio) – Um portifólio com um chatbot AI com conhecimento profundo sobre mim.
+- [**Discord-Bot-With-AI**](https://github.com/Vitorvzp/DiscordBot) – Um bot de discord com integração de API e IA, Criptografador e Descriptografador privado.
+- [**Database-API**](https://github.com/Vitorvzp/API) – Uma API de um banco de dados criptografado com criptografia criada por mmim com 300 Mil Usuários 
+- [**Menu**](https://github.com/Vitorvzp/Gourmet) – Um cardápio de um trabalho escolar
 
 ---
 
