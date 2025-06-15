@@ -3,6 +3,9 @@
   👋 Olá, eu sou o <span style="color:#4CAF50">Vitor Emanuel</span>
 </h1>
 
+🔗 [Acesse meu README Interativo](https://github.com/SeuUsuario/SeuRepositorio/blob/main/README_interativo.html)
+
+
 <h3 align="center">
   🎓 Estudante | 💻 Programador Python | 📊 Cientista de Dados | 🧠 Fã de IA
 </h3>
