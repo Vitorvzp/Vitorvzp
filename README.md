@@ -58,7 +58,7 @@ Meu objetivo é me tornar um especialista em **inteligência artificial** e **ci
 - [**Database-API**](https://github.com/Vitorvzp/API) – Uma API de um banco de dados criptografado com criptografia criada por mmim com 300 Mil Usuários 
 - [**Menu**](https://github.com/Vitorvzp/Gourmet) – Um cardápio de um trabalho escolar
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Vitorvzp/Vitorvzp/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
