@@ -4,6 +4,8 @@
 </h1>
 
 
+
+
 <h3 align="center">
   🎓 Estudante | 💻 Programador Python | 📊 Cientista de Dados | 🧠 Fã de IA
 </h3>
@@ -148,6 +150,9 @@ Meu objetivo é me tornar um especialista em **inteligência artificial** e **ci
 - 🧩 Curioso, persistente e movido por desafios técnicos
 - 🛡️ Valorizo **segurança**, **desempenho** e **estética** em tudo que desenvolvo
 > _"Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende."_ – Leonardo da Vinci
+
+
+![Pacman Comendo Commits](https://github.com/Vitorvzp/Vitorvzp/blob/main/assets/pacman.png)
 
 ---
 
