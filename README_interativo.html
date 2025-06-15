@@ -1,0 +1,135 @@
+
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>README - Vitor Emanuel</title>
+  <style>
+    :root {
+      --light-bg: #ffffff;
+      --light-text: #1a1a1a;
+      --dark-bg: #121212;
+      --dark-text: #eeeeee;
+      --accent: #4CAF50;
+    }
+
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 2rem;
+      transition: background 0.3s, color 0.3s;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: auto;
+    }
+
+    .toggle-buttons {
+      display: flex;
+      justify-content: flex-end;
+      gap: 10px;
+      margin-bottom: 20px;
+    }
+
+    button {
+      padding: 8px 14px;
+      border: none;
+      border-radius: 5px;
+      background: var(--accent);
+      color: white;
+      cursor: pointer;
+    }
+
+    h1 span {
+      color: var(--accent);
+    }
+
+    img.icon {
+      width: 40px;
+      vertical-align: middle;
+      margin: 0 4px;
+    }
+
+    .light {
+      background: var(--light-bg);
+      color: var(--light-text);
+    }
+
+    .dark {
+      background: var(--dark-bg);
+      color: var(--dark-text);
+    }
+  </style>
+</head>
+<body class="dark" id="body">
+  <div class="container">
+    <div class="toggle-buttons">
+      <button onclick="toggleTheme()">🌙/☀️ Tema</button>
+      <button onclick="toggleLang()">🇧🇷/🇺🇸 Idioma</button>
+    </div>
+    <div id="content-pt">
+      <h1 align="center">👋 Olá, eu sou <span>Vitor Emanuel</span></h1>
+      <h3 align="center">🎓 Estudante | 💻 Programador Python | 📊 Cientista de Dados | 🧠 Fã de IA</h3>
+      <ul>
+        <li>📍 Localização: Maceió - AL, Brasil</li>
+        <li>💬 Email: Vitorvzp722@gmail.com</li>
+        <li>📱 Tel: +55 82 98756-5699</li>
+        <li>🚀 Experiência: Python, Data Science, Flask, Bots de Discord</li>
+        <li>🧠 Estudando: Machine Learning, Backend, APIs</li>
+      </ul>
+      <h3>🚀 Tecnologias</h3>
+      <p><img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+         <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+         <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+         <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+         <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+         <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+         <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+      </p>
+    </div>
+
+    <div id="content-en" style="display:none;">
+      <h1 align="center">👋 Hello, I'm <span>Vitor Emanuel</span></h1>
+      <h3 align="center">🎓 Student | 💻 Python Developer | 📊 Data Scientist | 🧠 AI Enthusiast</h3>
+      <ul>
+        <li>📍 Location: Maceió - AL, Brazil</li>
+        <li>💬 Email: Vitorvzp722@gmail.com</li>
+        <li>📱 Phone: +55 82 98756-5699</li>
+        <li>🚀 Experience: Python, Data Science, Flask, Discord Bots</li>
+        <li>🧠 Studying: Machine Learning, Backend, APIs</li>
+      </ul>
+      <h3>🚀 Technologies</h3>
+      <p><img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+         <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+         <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+         <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+         <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+         <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+         <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+      </p>
+    </div>
+  </div>
+
+  <script>
+    function toggleTheme() {
+      const body = document.getElementById('body');
+      body.classList.toggle('dark');
+      body.classList.toggle('light');
+    }
+
+    function toggleLang() {
+      const pt = document.getElementById('content-pt');
+      const en = document.getElementById('content-en');
+      if (pt.style.display === "none") {
+        pt.style.display = "block";
+        en.style.display = "none";
+      } else {
+        pt.style.display = "none";
+        en.style.display = "block";
+      }
+    }
+  </script>
+</body>
+</html>
