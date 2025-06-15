@@ -3,8 +3,6 @@
   👋 Olá, eu sou o <span style="color:#4CAF50">Vitor Emanuel</span>
 </h1>
 
-🔗 [Acesse meu README Interativo](https://github.com/SeuUsuario/SeuRepositorio/blob/main/README_interativo.html)
-
 
 <h3 align="center">
   🎓 Estudante | 💻 Programador Python | 📊 Cientista de Dados | 🧠 Fã de IA
@@ -32,10 +30,17 @@ telefone: +55 82 98756-5699
 ```
 
 - ✨ Estudo programação há mais de **7 anos**
-- 💡 Especialista em criar bots, automações e sistemas visuais impactantes
+- 💡 Estudando criação de bots, automações e sistemas visuais impactantes
 - 📊 Apaixonado por **dados**, inteligência artificial e soluções práticas
 - 🌐 Desenvolvo sites com **design moderno**, APIs REST e deploys com Docker
 - 💬 Sempre aprendendo algo novo: IA, Machine Learning e mais!
+
+## 📘 Atualmente estudando
+
+- 🤖 **Machine Learning**  
+- 🧠 **Redes Neurais**  
+- ⚙️ **Uso de IAs aplicadas**  
+- 🗃️ **PostgreSQL avançado**
 
 ---
 
@@ -46,7 +51,6 @@ telefone: +55 82 98756-5699
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
@@ -67,7 +71,7 @@ telefone: +55 82 98756-5699
 ### 🧠 Conhecimentos Atuais
 
 - Python (Intermediário/Avançado)
-- Data Science com Pandas, Numpy, Matplotlib
+- Data Science com Pandas, Numpy
 - Banco de Dados (MySQL, SQLite, SQLModel)
 - Backend com Flask e APIs REST
 - Web Design com HTML5, CSS3 e JavaScript
@@ -81,9 +85,10 @@ telefone: +55 82 98756-5699
 
 | Projeto | Descrição |
 |--------|-----------|
-| [`sb1-odhzazw6`](https://github.com/Vitorvzp/sb1-odhzazw6) | Portfólio responsivo com design minimalista |
-| `discord-music-bot` | Bot de música para Discord com suporte a YouTube |
-| `flask-dashboard-app` | Dashboard com Flask + SQLModel, visual e funcional |
+| [`Portifólio`](https://github.com/Vitorvzp/Port-folio) | Um portifólio com um chatbot AI com conhecimento profundo sobre mim.
+| [`Discord-Bot`](https://github.com/Vitorvzp/DiscordBot) | Um bot de discord com integração de API e IA, Criptografador e Descriptografador privado. |
+| [`Database-API`](https://github.com/Vitorvzp/API) | Uma API de um banco de dados criptografado com criptografia criada por mmim com 300 Mil Usuários  |
+| [`Gourmet-Menu`](https://github.com/Vitorvzp/Gourmet) | Um cardápio de um trabalho escolar |
 
 🔗 Veja todos os repositórios em [github.com/Vitorvzp](https://github.com/Vitorvzp)
 
@@ -93,7 +98,7 @@ telefone: +55 82 98756-5699
 
 <p align="center">
   <a href="mailto:Vitorvzp722@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/Vitorvzp"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Vitorvzp"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -113,6 +118,27 @@ telefone: +55 82 98756-5699
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 </p>
 
+Sou um programador focado em escrever código limpo, organizado e eficiente. Acredito que a legibilidade é tão importante quanto a funcionalidade, por isso sigo boas práticas como:
+
+    Código modular: Divido as funcionalidades em funções e classes para facilitar manutenção e reuso.
+
+    Comentários claros: Sempre explico o “porquê” do código, não só o “como”.
+
+    Documentação: Crio documentação para projetos, APIs e scripts para garantir facilidade de uso e entendimento.
+
+    Testes e Debug: Valorizo testes automatizados e uso ferramentas de debug para garantir qualidade e confiabilidade.
+
+    Performance e segurança: Busco otimizar código sem perder a segurança, evitando vulnerabilidades e gargalos.
+
+    Estética do código: Uso formatação consistente e nomes descritivos para tornar o código mais amigável para mim e para a equipe.
+
+Além disso, sou fã de automatizar tarefas repetitivas, integrar sistemas e explorar novas tecnologias que possam trazer inovação e agilidade ao meu fluxo de trabalho.
+
+
+## 🚀 Objetivos
+
+Meu objetivo é me tornar um especialista em **inteligência artificial** e **ciência de dados**, aplicando meus conhecimentos para resolver problemas reais. Gosto de criar projetos práticos e aprender na prática!
+
 ---
 
 ### 💡 Curiosidades
@@ -121,6 +147,7 @@ telefone: +55 82 98756-5699
 - 🌿 Gosto de trabalhar com **designs naturais**, minimalistas e com **glassmorphism**
 - 🧩 Curioso, persistente e movido por desafios técnicos
 - 🛡️ Valorizo **segurança**, **desempenho** e **estética** em tudo que desenvolvo
+> _"Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende."_ – Leonardo da Vinci
 
 ---
 
