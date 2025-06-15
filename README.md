@@ -58,6 +58,11 @@ Meu objetivo é me tornar um especialista em **inteligência artificial** e **ci
 - [**Database-API**](https://github.com/Vitorvzp/API) – Uma API de um banco de dados criptografado com criptografia criada por mmim com 300 Mil Usuários 
 - [**Menu**](https://github.com/Vitorvzp/Gourmet) – Um cardápio de um trabalho escolar
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
