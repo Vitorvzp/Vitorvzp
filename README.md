@@ -87,7 +87,7 @@ telefone: +55 82 98756-5699
 
 | Projeto | Descrição |
 |--------|-----------|
-| [`Portifólio`](https://github.com/Vitorvzp/Port-folio) | Um portifólio com um chatbot AI com conhecimento profundo sobre mim.
+| [`Portifólio`](https://github.com/Vitorvzp/Portifolio) | Um portifólio com um chatbot AI com conhecimento profundo sobre mim.
 | [`Discord-Bot`](https://github.com/Vitorvzp/DiscordBot) | Um bot de discord com integração de API e IA, Criptografador e Descriptografador privado. |
 | [`Database-API`](https://github.com/Vitorvzp/API) | Uma API de um banco de dados criptografado com criptografia criada por mmim com 300 Mil Usuários  |
 | [`Gourmet-Menu`](https://github.com/Vitorvzp/Gourmet) | Um cardápio de um trabalho escolar |
