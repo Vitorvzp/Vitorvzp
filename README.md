@@ -16,6 +16,7 @@
 
 16 anos, 7+ anos programando. Construo sistemas reais — de CRMs a ferramentas de CLI em Rust — e exploro IA aplicada na prática.
 
+- 🔓 Construindo **[PcPortal](https://github.com/Vitorvzp/PcPortal)** — desbloqueio remoto do Windows via smartphone (biometria/NFC), com a senha nunca trafegando pela rede
 - Atualmente trabalhando em sistemas de gestão com TypeScript e APIs Python
 - Construindo **[TreeC](https://github.com/Vitorvzp/TreeC)** — um visualizador de estrutura de projetos escrito em Rust
 - Explorando AGI e arquiteturas de IA com **[agi-like](https://github.com/Vitorvzp/agi-like)**
@@ -57,6 +58,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [PcPortal](https://github.com/Vitorvzp/PcPortal) | Remote Windows unlock via smartphone (biometrics/NFC), password never on the wire | C# · C++ · Kotlin |
 | [TreeC](https://github.com/Vitorvzp/TreeC) | Professional project tree visualizer | Rust |
 | [agi-like](https://github.com/Vitorvzp/agi-like) | Experimental AGI architecture | Python |
 | [Portifolio](https://github.com/Vitorvzp/Portifolio) | Portfolio with AI chatbot | TypeScript |
