@@ -9,9 +9,9 @@
 
 <table width="100%">
   <tr>
-    <th width="33%" align="center">Portfolio</th>
-    <th width="34%" align="center">LinkedIn</th>
-    <th width="33%" align="center">GitHub</th>
+    <th width="250" align="center">Portfolio</th>
+    <th width="250" align="center">LinkedIn</th>
+    <th width="250" align="center">GitHub</th>
   </tr>
   <tr>
     <td align="center"><a href="https://byvitor.web.app/"><img src="assets/ve-blue/portfolio.svg" width="48" height="48" alt="Visit my portfolio" /></a></td>
